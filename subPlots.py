@@ -25,4 +25,6 @@ axs[1, 1].set_title("Log Wave")
 figs.suptitle("Plots Muhahahahaha")
 
 plt.tight_layout()
-plt.show()
+
+# saves the fig, dpi sets the quality (higher the better)
+plt.savefig("subplots.png", dpi = 300, transparent=False)
