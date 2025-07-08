@@ -1,0 +1,1 @@
+Just some basic ass ahh matplot lib tutorials that the order is taking in its attempt for world domination
