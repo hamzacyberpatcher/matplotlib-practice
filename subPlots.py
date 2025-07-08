@@ -23,4 +23,6 @@ axs[1, 1].plot(x, np.log(x))
 axs[1, 1].set_title("Log Wave")
 
 figs.suptitle("Plots Muhahahahaha")
+
+plt.tight_layout()
 plt.show()
